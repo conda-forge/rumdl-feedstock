@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.3.6"
+  version: "0.3.7"
 
 package:
   name: rumdl
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/rvben/rumdl/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: f71a52b2febe75f36ad7193a6bb1e5b3be85ee834a14c5992dc62dd11b8ea559
+  sha256: 919996ab0fcdb16cfb23dc9219be185ca6caa2c93857029ff25cee2c1f89cefa
 
 build:
   number: 0
